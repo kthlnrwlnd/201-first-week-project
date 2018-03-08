@@ -52,4 +52,21 @@ if(iceCreamQuestion === 'yes'|| 'y') {
 } else {
   alert('Well, I\'ll have to leave you now because I\'m headed to the store for some. ');
   console.log('Seattle people are big coffee drinkers and icecream eaters.');
-}
+
+
+
+}//sixth question/4 trys /diplays "too high" or "too low"
+var birthYearQuestion
+
+//seventh question ?6 trys / lists all possible answers
+var birthYear === 1960;
+var yearGuess = prompt("Can you guess what year I ws born?");
+for(var i = 0; i < 4 ; i++);
+  if (yearGuess < 1960) {
+    alert: 'Too low!'
+    console.log ('Guess again.')
+  } else {
+
+  }
+
+//tally /lists number of correct answers/ message with user name and tally
